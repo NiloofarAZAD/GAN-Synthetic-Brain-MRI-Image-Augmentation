@@ -1,4 +1,4 @@
-# GAN-Synthetic-Brain-MRI-Image-Augmentation
+# cAN-Synthetic-Brain-MRI-Image-Augmentation
 Synthetic Brain MRI Image Augmentation Using Conditional GAN 
 
 
